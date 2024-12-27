@@ -94,9 +94,13 @@
 
   .profile-picture { 
     width: 220px; 
-    height: 100%; 
+    height: 220px; 
     border-radius: 50%; 
     object-fit: cover; 
+  }
+
+  .about-pic{
+    width: 270px;
   }
 
   .section__text__p2 {
